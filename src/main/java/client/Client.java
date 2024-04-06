@@ -1,5 +1,6 @@
 package client;
 
+import commons.FormInputStream;
 import commons.Message;
 
 import java.io.*;
