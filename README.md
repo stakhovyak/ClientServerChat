@@ -5,7 +5,11 @@
 - add GUI logger
 
 ## QUESTIONS
-- how do i read the JTextField stream?
-  need something to confirm the input
-  to make it scannable
 - Is it good practice to make Callable return Boolean?
+- If not swing, by what means can i do GUI?
+
+## PROBLEMS
+- God classes
+- Client breeds listeners with every connections
+- When the connection is lost, the client crashes
+  without trying to restore it, similar to the server
