@@ -5,6 +5,8 @@
 - add GUI logger
 
 ** Questions
+- Should i add TypeSafeQueue to objects?
+- How to split the god classes?
 - Is it good practice to make Callable return Boolean?
 - If not swing, by what means can i do GUI?
 - Why .gitignore is ignored?
