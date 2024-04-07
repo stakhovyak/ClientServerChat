@@ -1,6 +1,6 @@
 * Simple one server multiple clients chat in Java
 
-** TODO
+** TODOS
 - add GUI
 - add GUI logger
 
