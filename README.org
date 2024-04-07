@@ -7,6 +7,7 @@
 ** Questions
 - Is it good practice to make Callable return Boolean?
 - If not swing, by what means can i do GUI?
+- Why .gitignore is ignored?
 
 ** Problems
 - God classes
